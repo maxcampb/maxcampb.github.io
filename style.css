@@ -81,3 +81,16 @@ footer p {
   color: #00b3b3;
 }
 
+
+.project {
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  margin-top: 10px;
+}
+
+.project ul {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
